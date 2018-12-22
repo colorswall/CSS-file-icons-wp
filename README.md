@@ -20,7 +20,7 @@ Add shortcode `[cfi_icon type="exe"]`
 
 ## Shortcode Attributes
 `size` - icon size.<br />
-Aviable sizes:
+Available sizes:
 ```
 'sm'
 'md'
@@ -29,7 +29,7 @@ Aviable sizes:
 ```
 
 `type` - file extension.<br />
-Aviable types:
+Available types:
 ```
 'doc'
 'docx'
