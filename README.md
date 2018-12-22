@@ -4,10 +4,10 @@ CSS File Icons WP is an Wordpress Plugin for "Pure CSS file" lib
 ## Icons
 [<img src="https://raw.githubusercontent.com/colorswall/CSS-file-icons/master/src/images/icons.png" alt="CSS file icons" data-canonical-src="https://raw.githubusercontent.com/colorswall/CSS-file-icons/master/src/images/icons.png" width="721" height="241" />](https://colorswall.github.io/CSS-file-icons/)
 
-[CSS Fle Icons Demo](https://colorswall.github.io/CSS-file-icons/)
+[CSS File Icons Demo](https://colorswall.github.io/CSS-file-icons/)
 
 ## Usage
-Activate plugin `CSS File Icons WP`
+Activate plugin `CSS File Icons WP`.<br />
 Add shortcode `[cfi_icon type="exe"]`
 
 ## Example
@@ -19,7 +19,7 @@ Add shortcode `[cfi_icon type="exe"]`
 ```
 
 ## Shortcode Attributes
-`size` - icon size
+`size` - icon size.<br />
 Aviable sizes:
 ```
 'sm'
@@ -28,7 +28,7 @@ Aviable sizes:
 'xs'
 ```
 
-`type` - file extension
+`type` - file extension.<br />
 Aviable types:
 ```
 'doc'
