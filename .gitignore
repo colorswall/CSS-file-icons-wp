@@ -1,0 +1,8 @@
+bower_components
+node_modules
+*.swp
+build/
+.DS_Store
+*.orig
+.idea
+.idea/jsLibraryMappings.xml
