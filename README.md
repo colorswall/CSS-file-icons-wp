@@ -1,11 +1,3 @@
-=== CSS File Icons WP ===
-Contributors:      colorswall
-Tags:              shortcode, icons, file, extension
-Requires at least: 3.8.0
-Requires PHP:      5.2
-Tested up to:      5.0.0
-Stable tag:        0.1.0
-
 ## CSS file icons WP
 CSS File Icons WP is an Wordpress Plugin for "Pure CSS file" lib
 
