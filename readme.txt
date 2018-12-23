@@ -15,30 +15,30 @@ CSS File Icons WP is an Wordpress Plugin for "Pure CSS file" lib
 [CSS File Icons Demo](https://colorswall.github.io/CSS-file-icons/)
 
 ## Usage
-Activate plugin `CSS File Icons WP`.<br />
+Activate plugin `CSS File Icons WP`.
 Add shortcode `[cfi_icon type="exe"]`
 
 ## Example
-```
+`
 [cfi_icon type="exe"]
 [cfi_icon type="max" size="xs" /]
 [cfi_icon type="exe" /]
 [cfi_icon type="txt" size="lg" title="My title" /]
-```
+`
 
 ## Shortcode Attributes
-`size` - icon size.<br />
+`size` - icon size
 Available sizes:
-```
+`
 'sm'
 'md'
 'lg'
 'xs'
-```
+`
 
-`type` - file extension.<br />
+`type` - file extension
 Available types:
-```
+`
 'doc'
 'docx'
 'log'
@@ -83,6 +83,6 @@ Available types:
 'py'
 'rss'
 'rb'
-```
+`
 
 `title` - any text
