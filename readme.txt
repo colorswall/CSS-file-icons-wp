@@ -19,70 +19,65 @@ Activate plugin `CSS File Icons WP`.
 Add shortcode `[cfi_icon type="exe"]`
 
 ## Example
-`
-[cfi_icon type="exe"]
-[cfi_icon type="max" size="xs" /]
-[cfi_icon type="exe" /]
-[cfi_icon type="txt" size="lg" title="My title" /]
-`
+
+* [cfi_icon type="exe"]
+* [cfi_icon type="max" size="xs" /]
+* [cfi_icon type="exe" /]
+* [cfi_icon type="txt" size="lg" title="My title" /]
 
 ## Shortcode Attributes
 `size` - icon size
 Available sizes:
-`
-'sm'
-'md'
-'lg'
-'xs'
-`
+* sm
+* md
+* lg
+* xs
 
 `type` - file extension
 Available types:
-`
-'doc'
-'docx'
-'log'
-'txt'
-'wps'
-'csv'
-'dat'
-'ppt'
-'xml'
-'mp3'
-'wav'
-'avi'
-'mov'
-'mp4'
-'3ds'
-'max'
-'gif'
-'ai'
-'svg'
-'pdf'
-'xls'
-'xlsx'
-'sql'
-'exe'
-'js'
-'html'
-'xhtml'
-'css'
-'asp'
-'ttf'
-'dll'
-'7z'
-'zip'
-'c'
-'cs'
-'java'
-'swift'
-'torrent'
-'php'
-'hh'
-'go'
-'py'
-'rss'
-'rb'
-`
+* doc
+* docx
+* log
+* txt
+* wps
+* csv
+* dat
+* ppt
+* xml
+* mp3
+* wav
+* avi
+* mov
+* mp4
+* 3ds
+* max
+* gif
+* ai
+* svg
+* pdf
+* xls
+* xlsx
+* sql
+* exe
+* js
+* html
+* xhtml
+* css
+* asp
+* ttf
+* dll
+* 7z
+* zip
+* c
+* cs
+* java
+* swift
+* torrent
+* php
+* hh
+* go
+* py
+* rss
+* rb
 
 `title` - any text
